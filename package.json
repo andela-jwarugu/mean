@@ -1,0 +1,12 @@
+{
+  "name": "My awesome mean app",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.1.9",
+    "mongoose": "^4.5.9",
+    "morgan": "^1.7.0"
+  }
+}
